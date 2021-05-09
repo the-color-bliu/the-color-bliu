@@ -10,7 +10,7 @@
 
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=the-color-bliu&show_icons=true&theme=default)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-color-bliu&show_icons=true&theme=default)](https://github.com/BJSherman80/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-color-bliu&show_icons=true&theme=default)](https://github.com/BJSherman80/github-readme-stats)-->
 
 
 
