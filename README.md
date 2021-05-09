@@ -25,7 +25,7 @@
 
 Gmail =  brian.b.liu@gmail.com
 <br>
-Linkedin = 
+Linkedin = https://www.linkedin.com/in/brian-liu-8356287b/
 
 
 
