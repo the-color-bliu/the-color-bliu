@@ -8,9 +8,11 @@
 - 🍣 I also love food and culture, sports, and outdoor activities of all kinds.
 - ⏳ I excel at project management and cross-organizational communication and collaboration.
 
+![Brian's github stats](https://github-readme-stats.vercel.app/api?username=the-color-bliu&show_icons=true&theme=default)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-color-bliu&show_icons=true&theme=default)](https://github.com/BJSherman80/github-readme-stats)
 
-![Brian's github stats](https://github-readme-stats.vercel.app/api?username=the-color-bliu&show_icons=true&theme=default)
+
 
 ### Main Tools and languages I use: 
 
