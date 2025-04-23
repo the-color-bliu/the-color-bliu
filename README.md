@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## Welcome to Brian Liu's GitHub profile!
 ### Here are some facts about me...
-- Pronouns: He/Him
-- 📖 Graduate of **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
+- 📖 Graduate of **Turing School of Software & Design** out of **Denver, Colorado**
 - 👨🏼‍🎓 I have a bachelors degree in Economics and a minor in Business Administration. 
 - 🎸 I am a musician and love all forms of music!
 - 🍣 I also love food and culture, sports, and outdoor activities of all kinds.
